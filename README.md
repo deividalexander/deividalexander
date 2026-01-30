@@ -65,9 +65,16 @@ Here are the repositories that best represent my Full Stack & Data capabilities:
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deividalexander&show_icons=true&theme=radical&hide_border=true&v=2" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividalexander&layout=compact&theme=radical&hide_border=true&v=2" alt="languages graph" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=deividalexander&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deividalexander&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
