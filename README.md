@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Senior Full Stack Developer** with over **5+ years of experience** building and scaling software systems, with a strong focus on **Python-based backends, APIs, and React frontends**. I hold a degree in **Computer Science Engineering** with a minor in **Marketing Analytics**, which allows me to align technical decisions with real business outcomes.
+I’m a **Senior Full Stack Developer** with over **6+ years of experience** building and scaling software systems, with a strong focus on **Python-based backends, APIs, and React frontends**. I hold a degree in **Computer Science Engineering** with a minor in **Marketing Analytics**, which allows me to align technical decisions with real business outcomes.
 
 I don’t just write code — I **optimize processes and systems**.  
 In a recent enterprise project, I **refactored and validated large-scale data pipelines**, improving architecture and performance while achieving **annual savings of over $188k USD**. This experience strengthened my ability to make technical decisions that directly impact cost, scalability, and long-term maintainability.
